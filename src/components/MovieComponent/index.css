@@ -1,0 +1,31 @@
+.movie-comp-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+}
+.movie-image {
+  width: 190px;
+  height: 250px;
+  background-size: cover;
+  border-radius: 10px;
+}
+.movie-text {
+  text-align: center;
+}
+.movie-title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  margin-top: 10px;
+}
+.movie-rating {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 10px;
+}
+.link-item {
+  text-decoration: none;
+  color: #000;
+}

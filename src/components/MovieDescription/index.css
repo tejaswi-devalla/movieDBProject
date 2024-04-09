@@ -1,0 +1,22 @@
+.movie-desc-container {
+  background-color: lightgrey;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.movie-inside-cont {
+  background-color: #162336;
+  border-radius: 10px;
+  overflow: auto;
+}
+.cast-title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 20px;
+}
+.cast-info-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  overflow: auto;
+}

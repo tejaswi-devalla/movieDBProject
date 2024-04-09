@@ -1,0 +1,14 @@
+.cast-info-cont {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-right: 20px;
+  align-items: flex-start;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.cast-image {
+  height: 200px;
+  width: 200px;
+}
